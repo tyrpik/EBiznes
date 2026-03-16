@@ -1,7 +1,7 @@
 # Zadanie 1 Docker
 
 
-3.0 obraz ubuntu z Pythonem w wersji 3.10
+3.0 obraz ubuntu z Pythonem w wersji 3.10 https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_3_0
 
 3.5 obraz ubuntu:24.04 z Javą w wersji 8 oraz Kotlinem
 
