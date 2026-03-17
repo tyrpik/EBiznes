@@ -12,6 +12,6 @@
 5.0 dodać konfigurację docker-compose https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_5_0
 
 
-kod:
+kod do zadania 1: https://github.com/tyrpik/EBiznes/tree/main/zad1Docker
 
 video:
