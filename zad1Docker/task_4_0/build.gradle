@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+// Gradle będzie użwał Java 8 do kompilacji kodu
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+repositories {
+    // Gradle będzie szukał bibliotek w największym publicznym magazynie
+    mavenCentral()
+}
+dependencies {
+    // paczka JDBC SQLite
+    implementation 'org.xerial:sqlite-jdbc:3.49.0.0'
+}
