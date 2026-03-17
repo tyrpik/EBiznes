@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+// Gradle będzie użwał Java 8 do kompilacji kodu
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+repositories {
+    // Gradle będzie szukał bibliotek w największym publicznym magazynie
+    mavenCentral()
+}
+dependencies {
+    // paczka JDBC SQLite
+    implementation 'org.xerial:sqlite-jdbc:3.49.0.0'
+}
+application {
+    mainClass = 'HelloWorld'
+}
+run {
+    // Gradle odpali aplikację używając Javy 8 z tej ścieżki
+    executable = "/usr/lib/jvm/java-8-openjdk-amd64/bin/java"
+}
