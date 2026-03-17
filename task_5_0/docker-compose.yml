@@ -1,9 +1,0 @@
-version: '3.8'
-
-services:
-  task5:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: maria/task50-170326
-    container_name: maria_container_50
