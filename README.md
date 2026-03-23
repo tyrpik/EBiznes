@@ -14,4 +14,4 @@
 
 kod do zadania 1: https://github.com/tyrpik/EBiznes/tree/main/zad1Docker
 
-video:
+video: https://github.com/tyrpik/EBiznes/blob/main/zad1Docker/docker.mkv
