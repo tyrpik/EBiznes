@@ -15,3 +15,14 @@
 kod do zadania 1: https://github.com/tyrpik/EBiznes/tree/main/zad1Docker
 
 video: https://github.com/tyrpik/EBiznes/blob/main/zad1Docker/docker.mkv
+
+
+3.0 Należy stworzyć kontroler do Produktów https://github.com/tyrpik/EBiznes/blob/main/zad2Scala/app/controllers/ProductController.scala
+
+3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD - dane pobierane z listy https://github.com/tyrpik/EBiznes/blob/main/zad2Scala/app/controllers/ProductController.scala
+
+4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy zgodnie z CRUD https://github.com/tyrpik/EBiznes/tree/main/zad2Scala/app/controllers
+
+kod do zadania 2: https://github.com/tyrpik/EBiznes/tree/main/zad2Scala
+
+video: 
