@@ -26,4 +26,4 @@ video: https://github.com/tyrpik/EBiznes/blob/main/zad1Docker/docker.mkv
 
 kod do zadania 2: https://github.com/tyrpik/EBiznes/tree/main/zad2Scala
 
-video: 
+video: https://drive.google.com/file/d/1DkjGpl3Pfqolreaq34vbyjQ2Sb2Rb3qy/view?usp=sharing
