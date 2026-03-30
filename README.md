@@ -16,6 +16,7 @@ kod do zadania 1: https://github.com/tyrpik/EBiznes/tree/main/zad1Docker
 
 video: https://github.com/tyrpik/EBiznes/blob/main/zad1Docker/docker.mkv
 
+# Zadanie 2 Scala
 
 3.0 Należy stworzyć kontroler do Produktów https://github.com/tyrpik/EBiznes/blob/main/zad2Scala/app/controllers/ProductController.scala
 
