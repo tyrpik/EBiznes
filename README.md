@@ -26,4 +26,18 @@ video: https://github.com/tyrpik/EBiznes/blob/main/zad1Docker/docker.mkv
 
 kod do zadania 2: https://github.com/tyrpik/EBiznes/tree/main/zad2Scala
 
+video: https://drive.google.com/file/d/1DkjGpl3Pfqolreaq34vbyjQ2Sb2Rb3qy/view?usp=drive_link
+
+# Zadanie 3 Kotlin
+
+3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord: 
+https://github.com/tyrpik/EBiznes/blob/main/zad3Kotlin/discord-client/src/main/kotlin/Application.kt
+
+kod do zadania 3: https://github.com/tyrpik/EBiznes/blob/main/zad3Kotlin
+
+video: https://github.com/tyrpik/EBiznes/blob/main/zad3Kotlin/kotlin.mkv
+
+
+
+
 video: https://drive.google.com/file/d/1DkjGpl3Pfqolreaq34vbyjQ2Sb2Rb3qy/view?usp=sharing
