@@ -40,4 +40,4 @@ video: https://github.com/tyrpik/EBiznes/blob/main/zad3Kotlin/kotlin.mkv
 
 
 
-video: https://drive.google.com/file/d/1DkjGpl3Pfqolreaq34vbyjQ2Sb2Rb3qy/view?usp=sharing
+
