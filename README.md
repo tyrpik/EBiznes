@@ -37,6 +37,23 @@ kod do zadania 3: https://github.com/tyrpik/EBiznes/blob/main/zad3Kotlin
 
 video: https://github.com/tyrpik/EBiznes/blob/main/zad3Kotlin/kotlin.mkv
 
+# Zadanie 4 Go
+
+Należy stworzyć projekt w echo w Go. Należy wykorzystać gorm do stworzenia kilka modeli, gdzie pomiędzy dwoma musi być relacja. Należy zaimplementować proste endpointy do dodawania oraz wyświetlania danych za pomocą modeli. Jako bazę danych można wybrać dowolną, sugerowałbym jednak pozostać przy sqlite.
+
+3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Produktów zgodny z CRUD: https://github.com/tyrpik/EBiznes/blob/main/zad4Go/main.go
+
+3.5 Należy stworzyć model Produktów wykorzystując gorm oraz wykorzystać model do obsługi produktów (CRUD) w kontrolerze (zamiast listy): https://github.com/tyrpik/EBiznes/tree/main/zad4Go/models https://github.com/tyrpik/EBiznes/blob/main/zad4Go/controllers/product_controller.go
+
+4.0 Należy dodać model Koszyka oraz dodać odpowiedni endpoint: https://github.com/tyrpik/EBiznes/tree/main/zad4Go/models https://github.com/tyrpik/EBiznes/blob/main/zad4Go/controllers/cart_controler.go
+
+4.5 Należy stworzyć model kategorii i dodać relację między kategorią, a produktem: https://github.com/tyrpik/EBiznes/tree/main/zad4Go/models https://github.com/tyrpik/EBiznes/blob/main/zad4Go/controllers/category_controller.go
+
+5.0 pogrupować zapytania w gorm’owe scope'y: https://github.com/tyrpik/EBiznes/blob/main/zad4Go/models/models.go https://github.com/tyrpik/EBiznes/blob/main/zad4Go/controllers/product_controller.go
+
+kod do zadania 4: https://github.com/tyrpik/EBiznes/tree/main/zad4Go
+
+video: https://github.com/tyrpik/EBiznes/blob/main/zad4Go/go.mkv
 
 
 
