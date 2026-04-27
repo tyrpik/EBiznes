@@ -1,0 +1,36 @@
+zad5React/node_modules/
+zad5React/frontend/node_modules/
+zad5React/frontend/build/
+zad5React/backend/main
+zad5React/backend/*.exe
+zad5React/node_modules/
+zad5React/frontend/.env
+zad5React/backend/.env
+zad5React/.env
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env files
+.env
+.env.*
+!.env.example
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# docker
+docker-compose.override.yml
+
+# coverage
+coverage/
+
+# temp
+tmp/
+temp/
