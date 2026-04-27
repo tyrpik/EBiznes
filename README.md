@@ -57,24 +57,17 @@ video: https://github.com/tyrpik/EBiznes/blob/main/zad4Go/go.mkv
 
 # Zadanie 5 Frontend
 
-Należy stworzyć aplikację kliencką wykorzystując bibliotekę React.js.
-W ramach projektu należy stworzyć trzy komponenty: Produkty, Koszyk
-oraz Płatności. Koszyk oraz Płatności powinny wysyłać do aplikacji
-serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach
-z aplikacji serwerowej. Aplikacja serwera w jednym z trzech języków:
-Kotlin, Scala, Go. Dane pomiędzy wszystkimi komponentami powinny być
-przesyłane za pomocą React hooks.
+Należy stworzyć aplikację kliencką wykorzystując bibliotekę React.js. W ramach projektu należy stworzyć trzy komponenty: Produkty, Koszyk oraz Płatności. Koszyk oraz Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej. Aplikacja serwera w jednym z trzech języków: Kotlin, Scala, Go. Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks.
 
-3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
-Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
-Produktach powinniśmy pobierać dane o produktach z aplikacji
-serwerowej: 
-3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing
-4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za
-pomocą React hooks
-4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz
-kliencką na dockerze via docker-compose
-5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS
+3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej: https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/Produkty.js https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/Platnosci.js
+
+3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing: https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/Koszyk.js https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/App.js
+
+4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks: https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/CartContext.js https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/Produkty.js https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/Platnosci.js https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/Koszyk.js 
+
+4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose: https://github.com/tyrpik/EBiznes/blob/main/zad5React/docker-compose.yml https://github.com/tyrpik/EBiznes/blob/main/zad5React/backend/Dockerfile https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/Dockerfile
+
+5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS: https://github.com/tyrpik/EBiznes/blob/main/zad5React/backend/main.go https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/Produkty.js https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/Platnosci.js https://github.com/tyrpik/EBiznes/blob/main/zad5React/frontend/src/Koszyk.js
 
 kod do zadania 5: https://github.com/tyrpik/EBiznes/tree/main/zad5React
 
