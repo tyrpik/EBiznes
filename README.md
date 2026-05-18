@@ -90,6 +90,31 @@ kod do zadania 6: https://github.com/tyrpik/EBiznes/tree/main/zad6Testy
 
 video: https://github.com/tyrpik/EBiznes/blob/main/zad6Testy/testy.mkv
 
+# Zad 7 Sonar
+Należy dodać projekt aplikacji klienckiej oraz serwerowej (jeden
+branch, dwa repozytoria) do Sonara w wersji chmurowej
+(https://sonarcloud.io/). Należy poprawić aplikacje uzyskując 0 bugów,
+0 zapaszków, 0 podatności, 0 błędów bezpieczeństwa. Dodatkowo należy
+dodać widżety sonarowe do README w repozytorium dane projektu z
+wynikami.
+
+3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w
+hookach gita: https://github.com/tyrpik/EBiznes/tree/main/zad7Sonar https://github.com/tyrpik/sonar-client/blob/main/README.md 
+
+3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
+aplikacji serwerowej): https://github.com/tyrpik/EBiznes/tree/main/zad7Sonar
+
+4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod
+aplikacji serwerowej): https://github.com/tyrpik/EBiznes/tree/main/zad7Sonar
+
+4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa
+w kodzie w Sonarze (kod aplikacji serwerowej)
+aplikacji klienckiej: https://github.com/tyrpik/EBiznes/tree/main/zad7Sonar
+
+kod do zadania 7: https://github.com/tyrpik/EBiznes/tree/main/zad7Sonar
+
+wideo: https://github.com/tyrpik/EBiznes/blob/main/zad7Sonar/sonar.mkv
+
 
 
 
