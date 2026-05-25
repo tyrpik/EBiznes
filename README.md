@@ -115,6 +115,24 @@ kod do zadania 7: https://github.com/tyrpik/EBiznes/tree/main/zad7Sonar
 
 wideo: https://github.com/tyrpik/EBiznes/blob/main/zad7Sonar/sonar.mkv
 
+# Zad8 Oauth
+Należy skonfigurować klienta Oauth2 (4.0). Dane o użytkowniku wraz z
+tokenem powinny być przechowywane po stronie bazy serwera, a nowy
+token (inny niż ten od dostawcy) powinien zostać wysłany do klienta
+(React). Można zastosować mechanizm sesji lub inny dowolny (5.0).
+Zabronione jest tworzenie klientów bezpośrednio po stronie React'a
+wyłączając z komunikacji aplikację serwerową.
+
+Prawidłowa komunikacja: react-sewer-dostawca-serwer(via return
+uri)-react.
+
+3.0 logowanie przez aplikację serwerową (bez Oauth2): https://github.com/tyrpik/EBiznes/blob/main/zad8Oauth/server/server.js https://github.com/tyrpik/EBiznes/blob/main/zad8Oauth/client/src/App.js
+
+3.5 rejestracja przez aplikację serwerową (bez Oauth2): https://github.com/tyrpik/EBiznes/blob/main/zad8Oauth/server/server.js https://github.com/tyrpik/EBiznes/blob/main/zad8Oauth/client/src/App.js
+
+kod do zadania 8: https://github.com/tyrpik/EBiznes/tree/main/zad8Oauth
+
+wideo: https://github.com/tyrpik/EBiznes/blob/main/zad8Oauth/oauth.mkv
 
 
 
