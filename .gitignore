@@ -1,42 +1,57 @@
-zad5React/node_modules/
-zad5React/frontend/node_modules/
-zad5React/frontend/build/
-zad5React/backend/main
-zad5React/backend/*.exe
-zad5React/node_modules/
-zad5React/frontend/.env
-zad5React/backend/.env
-zad5React/.env
+############################################
+# Dependencies
+############################################
+node_modules/
+**/node_modules/
 
-# logs
+############################################
+# Builds / outputs
+############################################
+dist/
+build/
+coverage/
+tmp/
+temp/
+
+############################################
+# Env files
+############################################
+.env
+.env.*
+!.env.example
+
+############################################
+# Logs
+############################################
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# env files
-.env
-.env.*
-!.env.example
-
-# OS / editor files
+############################################
+# OS / IDE
+############################################
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
 
-# docker
-docker-compose.override.yml
+############################################
+# Backend / binaries
+############################################
+*.exe
+main
 
-# coverage
-coverage/
-
-# temp
-tmp/
-temp/
-
+############################################
+# Python (if used anywhere)
+############################################
 __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
 venv/
+
+############################################
+# Docker
+############################################
+docker-compose.override.yml
