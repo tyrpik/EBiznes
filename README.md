@@ -153,7 +153,7 @@ wideo: https://github.com/tyrpik/EBiznes/blob/main/zad9Gpt/ollama.mkv
 # Zad 10 Chmura
 
 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na
-dockerze: https://github.com/tyrpik/EBiznes/blob/main/zad10Chmura/Dockerfile https://github.com/tyrpik/EBiznes/blob/main/zad10Chmura/docker-compose.yml
+dockerze: https://github.com/tyrpik/EBiznes/blob/main/zad10Chmura/Dockerfile https://github.com/tyrpik/EBiznes/blob/main/zad10Chmura/docker-compose.yml https://github.com/tyrpik/ProjektowanieObiektowe/blob/main/Chmura/chmura0.mkv
 
 3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania
 aplikacji (np. via fatjar): https://github.com/tyrpik/EBiznes/blob/main/.github/workflows/ci.yml
@@ -162,7 +162,7 @@ aplikacji (np. via fatjar): https://github.com/tyrpik/EBiznes/blob/main/.github/
 
 kod do zadania: https://github.com/tyrpik/EBiznes/tree/main/zad10Chmura
 
-wideo: https://github.com/tyrpik/EBiznes/blob/main/zad10Chmura/chmura_ebiz.mkv
+wideo: https://github.com/tyrpik/EBiznes/blob/main/zad10Chmura/chmura_ebiz.mkv https://github.com/tyrpik/ProjektowanieObiektowe/blob/main/Chmura/chmura0.mkv
 
 
 
