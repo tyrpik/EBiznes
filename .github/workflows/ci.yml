@@ -63,7 +63,7 @@ jobs:
             Commit: ${{ github.sha }}
             Autor: ${{ github.actor }}
 
-            Wyniki Sonara: https://sonarcloud.io/project/overview?id=TWOJ_PROJECT_KEY
+            Wyniki Sonara: https://sonarcloud.io/project/overview?id=tyrpik_EBiznes
 
             Obraz Docker dostępny na: https://hub.docker.com/r/tyrpik/shopping-list
 
