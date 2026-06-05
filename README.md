@@ -115,7 +115,7 @@ kod do zadania 7: https://github.com/tyrpik/EBiznes/tree/main/zad7Sonar
 
 wideo: https://github.com/tyrpik/EBiznes/blob/main/zad7Sonar/sonar.mkv
 
-# Zad8 Oauth
+# Zad 8 Oauth
 Należy skonfigurować klienta Oauth2 (4.0). Dane o użytkowniku wraz z
 tokenem powinny być przechowywane po stronie bazy serwera, a nowy
 token (inny niż ten od dostawcy) powinien zostać wysłany do klienta
@@ -134,6 +134,21 @@ kod do zadania 8: https://github.com/tyrpik/EBiznes/tree/main/zad8Oauth
 
 wideo: https://github.com/tyrpik/EBiznes/blob/main/zad8Oauth/oauth.mkv
 
+# Zad 9 GPT
+Należy rozszerzyć funkcjonalność wcześniej stworzonego bota. Do niego
+należy stworzyć aplikację frontendową, która połączy się z osobnym
+serwisem, który przeanalizuje tekst od użytkownika i prześle zapytanie
+do GPT, a następnie prześle odpowiedź do użytkownika. Cały projekt
+należy stworzyć w Pythonie.
+
+3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z
+chatGPT: https://github.com/tyrpik/EBiznes/blob/main/zad9Gpt/main.py
+
+Można wykorzystać lokalny model przez ollama (https://ollama.com/).
+
+kod do zadania 9: https://github.com/tyrpik/EBiznes/tree/main/zad9Gpt
+
+wideo: https://github.com/tyrpik/EBiznes/blob/main/zad9Gpt/ollama.mkv
 
 
 
