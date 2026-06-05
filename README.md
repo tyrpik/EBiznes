@@ -153,12 +153,16 @@ wideo: https://github.com/tyrpik/EBiznes/blob/main/zad9Gpt/ollama.mkv
 # Zad 10 Chmura
 
 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na
-dockerze:
+dockerze: https://github.com/tyrpik/EBiznes/blob/main/zad10Chmura/Dockerfile https://github.com/tyrpik/EBiznes/blob/main/zad10Chmura/docker-compose.yml
 
 3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania
-aplikacji (np. via fatjar):
+aplikacji (np. via fatjar): https://github.com/tyrpik/EBiznes/blob/main/.github/workflows/ci.yml
 
-4.0 Dodać notyfikację mailową o wynikach z sonara:
+4.0 Dodać notyfikację mailową o wynikach z sonara: https://github.com/tyrpik/EBiznes/blob/main/.github/workflows/ci.yml https://github.com/tyrpik/EBiznes/blob/main/zad10Chmura/sonar-project.properties
+
+kod do zadania: https://github.com/tyrpik/EBiznes/tree/main/zad10Chmura
+
+wideo: https://github.com/tyrpik/EBiznes/blob/main/zad10Chmura/chmura_ebiz.mkv
 
 
 
