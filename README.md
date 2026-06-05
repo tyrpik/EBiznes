@@ -150,5 +150,16 @@ kod do zadania 9: https://github.com/tyrpik/EBiznes/tree/main/zad9Gpt
 
 wideo: https://github.com/tyrpik/EBiznes/blob/main/zad9Gpt/ollama.mkv
 
+# Zad 10 Chmura
+
+3.0 Należy stworzyć odpowiednie instancje po stronie chmury na
+dockerze:
+
+3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania
+aplikacji (np. via fatjar):
+
+4.0 Dodać notyfikację mailową o wynikach z sonara:
+
+
 
 
