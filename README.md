@@ -1,18 +1,18 @@
 # Zadanie 1 Docker
 
 
-3.0 obraz ubuntu z Pythonem w wersji 3.10 https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_3_0
+3.0 obraz ubuntu z Pythonem w wersji 3.10 https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_3_0 https://hub.docker.com/repository/docker/tyrpik/ebiznes-zad1/tags/3.0/sha256:95c7dcd796447639fd6da10ce99261b587b76fb4c959bc17713ade4ebc810c05
 
-3.5 obraz ubuntu:24.04 z Javą w wersji 8 oraz Kotlinem https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_3_5
+3.5 obraz ubuntu:24.04 z Javą w wersji 8 oraz Kotlinem https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_3_5 https://hub.docker.com/repository/docker/tyrpik/ebiznes-zad1/tags/3.5/sha256:d53f992b0da3e406a0689ebb3ce10b831318ee41b1408d17915e7b5ae784ffe9
 
-4.0 do powyższego należy dodać najnowszego Gradle’a oraz paczkę JDBC SQLite w ramach projektu na Gradle (build.gradle) https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_4_0
+4.0 do powyższego należy dodać najnowszego Gradle’a oraz paczkę JDBC SQLite w ramach projektu na Gradle (build.gradle) https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_4_0 https://hub.docker.com/repository/docker/tyrpik/ebiznes-zad1/tags/4.0/sha256:c6d2180f696a310addf3926e103578ecb82b974d6217232b8159118a031bd4ac
 
-4.5 stworzyć przykład typu HelloWorld oraz uruchomienie aplikacji przez CMD oraz gradle https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_4_5
+4.5 stworzyć przykład typu HelloWorld oraz uruchomienie aplikacji przez CMD oraz gradle https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_4_5 https://hub.docker.com/repository/docker/tyrpik/ebiznes-zad1/tags/4.5/sha256:4f505a054acf945076acd64210754a10674c69c961cace91627dd4a29080346f
 
-5.0 dodać konfigurację docker-compose https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_5_0
+5.0 dodać konfigurację docker-compose https://github.com/tyrpik/EBiznes/tree/main/zad1Docker/task_5_0 https://hub.docker.com/repository/docker/tyrpik/ebiznes-zad1/tags/5.0/sha256:766a506064883e635ca7375a5864af564695e23beed983be32491fc99f87f5d1
 
 
-kod do zadania 1: https://github.com/tyrpik/EBiznes/tree/main/zad1Docker
+kod do zadania 1: https://github.com/tyrpik/EBiznes/tree/main/zad1Docker https://hub.docker.com/repository/docker/tyrpik/ebiznes-zad1/general
 
 video: https://github.com/tyrpik/EBiznes/blob/main/zad1Docker/docker.mkv
 
